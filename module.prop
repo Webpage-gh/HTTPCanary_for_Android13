@@ -1,0 +1,6 @@
+id=Trust_Cert
+name=Trust Cert
+version=v1.0
+versionCode=1
+author=Webpage
+description=把用户证书添加到系统证书列表
